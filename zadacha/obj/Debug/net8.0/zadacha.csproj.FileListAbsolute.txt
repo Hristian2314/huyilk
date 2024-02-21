@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\bin\Debug\net8.0\zadacha.exe
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\bin\Debug\net8.0\zadacha.deps.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\bin\Debug\net8.0\zadacha.runtimeconfig.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\bin\Debug\net8.0\zadacha.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\bin\Debug\net8.0\zadacha.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\zadacha.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\refint\zadacha.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\zadacha.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\zadacha.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\Solution2\zadacha\obj\Debug\net8.0\ref\zadacha.dll
